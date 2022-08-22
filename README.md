@@ -11,9 +11,7 @@ The general structure of the machine learning model will be:
 2. Select the model to be used-in this case ALS algorithm
 3. Train the model
 4. Create predictions- rating 
-5. Validate the model using the test data
-
-  5.1 generate confusion matrix to know the sensitivity and precision of the model
+5. Validate the model using the test data( generate confusion matrix to know the sensitivity and precision of the model)
 
 
 
