@@ -12,9 +12,14 @@ The general structure of the machine learning model will be:
 3. Train the model
 4. Create predictions- rating 
 5. Validate the model using the test data
+
   5.1 generate confusion matrix to know the sensitivity and precision of the model
 
 
 
 
 
+Resources:
+https://sophwats.github.io/2018-04-05-gentle-als.html
+
+https://spark.apache.org/docs/latest/api/python/reference/api/pyspark.ml.recommendation.ALS.html
