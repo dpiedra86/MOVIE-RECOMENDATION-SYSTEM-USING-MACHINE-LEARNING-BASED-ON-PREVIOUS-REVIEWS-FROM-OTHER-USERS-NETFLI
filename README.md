@@ -10,6 +10,8 @@ Our business proposal aims to be replicated to search into any streaming catalog
 > The first set consists in the hard characteristics from the movie catalogue, Movie_ID, Year; Name. This data set is named Netflix_Dataset_Movie.CSV
 > The second dataset contains the rating information from the the same movie catalogue and it consists in User_ID, Rating, Movie_ID. This data set is named Netflix_Dataset_Ratings.csv
 
+![DiagramaEDR](https://github.com/dpiedra86/Sentiment_Analysis_Final_Project/blob/main/Resources/Diaggrama.png)
+
 Both data sets can be joined into a single dataframe to be analyzed using the Movie_ID dimenssion. 
 
 
