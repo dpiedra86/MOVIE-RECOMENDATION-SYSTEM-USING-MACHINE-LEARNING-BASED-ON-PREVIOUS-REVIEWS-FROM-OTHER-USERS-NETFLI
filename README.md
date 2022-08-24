@@ -13,8 +13,11 @@ Our business proposal aims to be replicated to search into any streaming catalog
 ![DiagramaEDR](Resources/Diaggrama.png)
 >Both data sets can be joined into a single dataframe to be analyzed using the Movie_ID dimenssion. 
 
+## Prblems we are trying to solve
+Asking the right questions... Can this system recommend me a movie I'd like based on my likings? 
 
-## 
+Yes the system can solve this questions and many more. The objective is to help our consumers to spend less time looking for movies and more time having fun watching them. Now the real question would be cheddar or caramel pop-corn?
+
 
 
 
