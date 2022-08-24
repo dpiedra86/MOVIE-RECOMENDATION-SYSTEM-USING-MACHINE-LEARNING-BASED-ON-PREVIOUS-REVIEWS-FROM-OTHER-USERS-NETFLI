@@ -20,4 +20,11 @@ Yes the system can solve this questions and many more. The objective is to help 
 
 
 
+# Team Comms Protocols
+The team keeps updated on a regular basis making the most of the tools we learned to use in during the course. 
+- Slack / A custom teamgroup where we keep constant updates on any new findings, ideas, share files and jokes. 
+- Zoom Meetings / Group sessions to keep us aligned during the thinking process. 
+
+
+
 
