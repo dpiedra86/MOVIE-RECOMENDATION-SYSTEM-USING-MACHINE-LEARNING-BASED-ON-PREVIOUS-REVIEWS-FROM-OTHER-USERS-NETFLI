@@ -11,8 +11,7 @@ Our business proposal aims to be replicated to search into any streaming catalog
 - The second dataset contains the rating information from the the same movie catalogue and it consists in User_ID, Rating, Movie_ID. This data set is named Netflix_Dataset_Ratings.csv
 
 ![DiagramaEDR](Resources/Diaggrama.png)
-
-Both data sets can be joined into a single dataframe to be analyzed using the Movie_ID dimenssion. 
+>Both data sets can be joined into a single dataframe to be analyzed using the Movie_ID dimenssion. 
 
 
 ## 
