@@ -25,6 +25,6 @@ The team keeps updated on a regular basis making the most of the tools we learne
 - Slack / A custom teamgroup where we keep constant updates on any new findings, ideas, share files and jokes. 
 - Zoom Meetings / Group sessions to keep us aligned during the thinking process. 
 
-
+# Outline of the project
 
 
