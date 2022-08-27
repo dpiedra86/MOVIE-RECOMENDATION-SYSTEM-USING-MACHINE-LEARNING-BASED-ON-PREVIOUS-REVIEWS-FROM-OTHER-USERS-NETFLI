@@ -37,3 +37,5 @@ We used the randomSplit method, and we decided to use 80% of the data for traini
 
 ## Explanation of model choice, including limitations and benefits
 We decided to use collaborative filtering in order to find similarities between users opinions(ratings).Our project will focus on creating a movie recommendation system that uses a collaborative filtering algorithm called Alternating Least Squares(ALS) in order to make predictions of the movie interest of a user by collecting ratings data from many other users. 
+The main advantage from this model is that it can make recommendations for users that already have a history in the dataset. It will display a final movie recommendation list to the user with the name of the movie, movide_id, year and predicted rating for that movie. However there is no garantee that the user will actually like those movies. 
+The main limitation of the model is that if you do not have a data history rating movies, this model would not be able to recommend you something to watch.
