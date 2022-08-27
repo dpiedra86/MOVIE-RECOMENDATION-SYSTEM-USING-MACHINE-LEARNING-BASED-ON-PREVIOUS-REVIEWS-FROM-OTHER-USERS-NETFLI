@@ -20,7 +20,7 @@ https://sophwats.github.io/2018-04-05-gentle-als.html
 https://spark.apache.org/docs/latest/api/python/reference/api/pyspark.ml.recommendation.ALS.html
 
 
-## Phase 2 
+## Second Segment
 
 ### Description of preliminary data preprocessing 
 The first part of the code consists in preprocesing and loading the data. We used pyspark, google collab notebook and AWS for the machine learning model.
