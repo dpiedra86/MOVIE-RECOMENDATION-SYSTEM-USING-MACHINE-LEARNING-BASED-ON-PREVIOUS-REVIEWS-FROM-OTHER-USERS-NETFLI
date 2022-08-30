@@ -30,13 +30,16 @@ The team keeps updated on a regular basis making the most of the tools we learne
 I. Description of the project
 
 II. Database
+
     - Movie Datasets
     - Cleaning Data
     - Data Exploration
  
 III. Machine Learning Model
+
     - Building Model
     - ALS Algorithm
     
 IV. Dashboard
+
     - Javascript, HTML, Bootstrap
