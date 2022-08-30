@@ -28,6 +28,7 @@ The team keeps updated on a regular basis making the most of the tools we learne
 # Outline of the project
 
 I. 
-  -
+
+-
 
 
