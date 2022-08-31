@@ -1,5 +1,7 @@
 # MOVIE RECOMENDATION SYSTEM USING MACHINE LEARNING BASED ON PREVIOUS REVIEWS FROM OTHER USERS (NETFLIX)
 
+https://docs.google.com/presentation/d/1F9FuEKx8hHW1EnyUEoP6KoDd16bhznvqqpGPNaewdWI/edit#slide=id.g148eadcfae5_0_177
+
 ## Project Overview
 We found a big opportunity in movie streaming channels. Our finfdings showed us that users can spend between 20 - 40 minutes browsing movie catalogues while trying to decide which movie they'd like to watch. Our project cosist on delveloping a solution to reduce that time span to a minimun while offering the best recomendations based on information the user provides, while the system analyses previous reviews from other users in a data base and deliver an accurate recommendation to our users. 
 
