@@ -43,4 +43,4 @@ III. Machine Learning Model
     
 IV. Dashboard
 
-    - Javascript, HTML, Bootstrap
+    - Javascript, CSS, HTML, Bootstrap
