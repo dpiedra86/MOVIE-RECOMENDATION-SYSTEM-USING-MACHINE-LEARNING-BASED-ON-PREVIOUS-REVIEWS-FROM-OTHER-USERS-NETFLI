@@ -32,7 +32,7 @@ I. Description of the project
   
 II. Database
 
-    - Movie Datasets
+    - Movie Datasets. Description of the columns
     - Cleaning Data
     - Data Exploration
  
