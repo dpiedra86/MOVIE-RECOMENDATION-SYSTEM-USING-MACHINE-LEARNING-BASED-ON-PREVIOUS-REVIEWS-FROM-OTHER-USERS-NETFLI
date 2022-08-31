@@ -42,5 +42,6 @@ III. Machine Learning Model
     - ALS Algorithm
     
 IV. Dashboard
+
     - Hierarchy
     - Toolkit: Javascript, CSS, HTML, Bootstrap
