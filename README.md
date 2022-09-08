@@ -48,4 +48,4 @@ IV. Dashboard
     - Hierarchy
     - Toolkit: Javascript, CSS, HTML, Bootstrap
 
-[link to dashboard](https://public.tableau.com/)
+[link to dashboard](https://public.tableau.com/app/profile/monica.ramos.belmont/viz/Movie_Recommendation_Model/Historia1?publish=yes)
